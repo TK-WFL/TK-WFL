@@ -1,6 +1,6 @@
 ### こんにちは、TK です 👋
 
-Notion Ambassador として、**Notion × AI エージェントで「仕事の流れ」をつくる**ことを研究・発信しています。
+Notion Ambassador として、**Notion × AI エージェントで「仕事の流れ」をつくる**ことを研究・発信しています。<br>
 Notion の学び場 **[Workflow Lab](https://workflow-lab.notion.site/)** を運営しています。
 
 <sub>Hi, I'm TK — a Notion Ambassador in Japan, building open-source tools that connect Notion with AI agents.</sub>
